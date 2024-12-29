@@ -37,6 +37,18 @@ Favs: Osu, Manga, BF1&5, Cyberpunk 2077, Thunder War
 ### Coolest Repo I Worked On
 ![](https://github-contributor-stats.vercel.app/api?username=umi2004&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+```
+Ah, quantum cat failed its experiment—  
+couldn’t decide if it was here or there!
 
-
+            <ー>        A____A　　
+            <ー>        |・ㅅ・| ???
+            <ー>        |っ　ｃ| 
+           <ー>        |　　　| 
+        <ー>        |　　　| 
+|　　　| 
+|　　　|
+|　　　|
+U￣￣U
+```
 
