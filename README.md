@@ -2,7 +2,9 @@
 - Physics and Statistics student at the University of Toronto, exploring data science, quantum computing, and finance.<be>
 - Studied advanced computational methods and statistical modelling.<be>
 - Currently learning more about quantum algorithms and their potential in finance.<be>
-- I love baking and have a YouTube channel 🥖 
+- I love baking and have a YouTube channel 🥖
+
+More about myself: [φ(.. )](https://umi2004.github.io/)
 
 ```
 　　　　　　iヽ　　　　　　　/ヽ 
