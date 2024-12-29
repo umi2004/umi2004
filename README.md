@@ -4,8 +4,7 @@
 - Currently learning more about quantum algorithms and their potential in finance.<be>
 - I love baking and have a YouTube channel where I dive into the art of sourdough bread. 
 
-![image](https://github.com/user-attachments/assets/375d4201-1a65-4ea4-ac95-8a288cc388a1)
-
+![giphy](https://github.com/user-attachments/assets/c7665fd2-cee2-445b-a084-c0b9561031eb)
 
 
 ## Where to Find Me |ω·`)
