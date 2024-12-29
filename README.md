@@ -4,6 +4,7 @@
 - Currently learning more about quantum algorithms and their potential in finance.<be>
 - I love baking and have a YouTube channel where I dive into the art of sourdough bread. 
 
+```
 　　　　　　iヽ　　　　　　　/ヽ 
 　　　 　 　|　ﾞヽ、　　　　/ 　ﾞi 
 　 　 　 　 |　　　ﾞ''─‐'''"　 　 l 
@@ -18,7 +19,7 @@
 　　　　γ"⌒ﾞヽ　　l　　　l　　γ'.ヽ　　　　　 　 　　　 
 　　　　 i　　 　 i,__,,ﾉ　　　i,__,,ﾉ_,,丿　　　　　　　　　 
 　　　　 ヽ,＿,,ノ"~´￣ ￣　　　　　　 
-
+```
 
 ## Where to Find Me |ω·`)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/umi_yamaguchi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umi-yamaguchi/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@UmisBakery) 
