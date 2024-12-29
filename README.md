@@ -21,7 +21,7 @@
 　　　　 ヽ,＿,,ノ"~´￣ ￣　　　　　　 
 ```
 
-## Where to Find Me |ω·`)
+## Where to Find Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/umi_yamaguchi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umi-yamaguchi/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@UmisBakery) 
 
 Favs: Osu, Manga, BF1&5, Cyberpunk 2077, Thunder War 
@@ -39,13 +39,11 @@ Favs: Osu, Manga, BF1&5, Cyberpunk 2077, Thunder War
 
 ```
 Ah, quantum cat failed its experiment—  
-couldn’t decide if it was here or there!
-
             <ー>        A____A　　
             <ー>        |・ㅅ・| ???
             <ー>        |っ　ｃ| 
-           <ー>        |　　　| 
-        <ー>        |　　　| 
+            <ー>        |　　　| 
+            <ー>        |　　　| 
 |　　　| 
 |　　　|
 |　　　|
