@@ -4,7 +4,7 @@
 - Currently learning more about quantum algorithms and their potential in finance.<be>
 - I love baking and have a YouTube channel 🥖
 
-<!-- … --> More about myself: [φ(.. )](https://umi2004.github.io/)
+<!--More about myself: [φ(.. )](https://umi2004.github.io/)--> 
 
 ```
 　　　　　　iヽ　　　　　　　/ヽ 
